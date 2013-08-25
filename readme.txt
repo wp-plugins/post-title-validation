@@ -2,7 +2,7 @@
 Contributors: pranavpathakjaora
 Tags: Title validation, Post, Page
 Requires at least: 3.5.1
-Tested up to: 3.5.1
+Tested up to: 3.6
 Stable tag: 1.0
 Version: 1.0
 License: GPLv2 or later
@@ -25,7 +25,7 @@ This plugin uses the standard installation procedure: install the plugin's folde
 
 
 == Changelog ==
-No changelog right now.
+Tested wordpress version upto 3.6.
 
 
 == Frequently Asked Questions ==

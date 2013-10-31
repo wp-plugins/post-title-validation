@@ -3,7 +3,7 @@
 Plugin URI: http://www.indiatale.com/post-title-validation/
 Description: This plugin validate post and page title field. It will also work for custom content type.
 Author: Pranav Pathak
-Version: 1.0
+Version: 1.1
 Author URI: http://www.indiatale.com/post-title-validation/
 */
 

@@ -25,7 +25,7 @@ This plugin uses the standard installation procedure: install the plugin's folde
 
 
 == Changelog ==
-Tested wordpress version upto 3.6.
+Jquery trim() function is added in post-title-validation.js file.
 
 
 == Frequently Asked Questions ==

@@ -2,7 +2,7 @@
 Contributors: pranavpathakjaora
 Tags: Title validation, Post, Page
 Requires at least: 3.5.1
-Tested up to: 3.7
+Tested up to: 3.8
 Stable tag: 1.1
 Version: 1.1
 License: GPLv2 or later
@@ -10,7 +10,7 @@ License: GPLv2 or later
 The Post-title-validation Plugin helps to create validation on title field of post, page, custom content type.
 
 == Description ==
-The Post-title-validation Plugin helps to create validation on title field of post, page, custom content type.If user will not enter title field then it will alert user that "Please insert title".
+The Post-title-validation Plugin helps to create validation on title field of post, page, custom content type. If user will not enter title field then it will alert user that "Please insert title".
 
 
 = Requirements =
@@ -21,7 +21,7 @@ The Post-title-validation Plugin helps to create validation on title field of po
 
 == Installation ==
 
-This plugin uses the standard installation procedure: install the plugin's folder inside of `wp-content/plugins` (make sure the folder is named *Post-title-validation*).
+This plugin uses the standard installation procedure: install the plugin's folder inside of 'wp-content/plugins' (make sure the folder is named *Post-title-validation*).
 
 
 == Changelog ==
@@ -29,5 +29,6 @@ Jquery trim() function is added in post-title-validation.js file.
 
 
 == Frequently Asked Questions ==
+
 Is it works for custom content type?
-Answer is yes it works.
+Yes it works.
